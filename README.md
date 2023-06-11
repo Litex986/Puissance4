@@ -1,2 +1,2 @@
 # Puissance4
-Puissance 4 en console
+Puissance 4 python en console
